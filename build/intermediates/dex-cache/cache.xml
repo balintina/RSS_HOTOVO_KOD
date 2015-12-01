@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_8be41f3b0c56e059fb9f2286ca2c150415ea8ad6.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_dc94991cf66119a9682bfb1051b9ce64973a4d19.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\okio-1.6.0_82562771c4e3e8278d9b91df6a555056a5c6cb49.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.3.0_37a9293610dca6107d3be48e75bb33f60fa52307.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_7b2ecd8c1eb015bedaf8efd7e6f7b71c73c0c963.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.3.0_871df5fabdbd10bd37efa59261fd8d7f7c451b2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.6.0\f1c87f9ffe72bfcdce6f2514d12e42ed43410a87\okhttp-urlconnection-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f1c87f9ffe72bfcdce6f2514d12e42ed43410a87">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.6.0_29972e2422b3a835081c4612f63e81809ab97ba0.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_88ac832d26919de773692abd5ff49a76352881de.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\jsoup-1.8.3_605aef517e7f88929f049785821101b8ae3f7b5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.3.0_ec7ca255e53eae2ecfa74f876e3881468847965a.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_2aca53f6f17c9dfc2dcc236636f170786dba5f15.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\glide-3.6.1_864892083e828fbb37504ab6b56d40beef2bda8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_ded97bd0d79ec2cf6e229c89971b490e58529968.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.3.0_3426fe99873302a65d692c38ab9a128e532a7703.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\okhttp-2.6.0_a0b0e96b75a63f7e995831ada6a84bb822987788.jar" />
+    </item>
+    <item
+        jar="C:\Users\leon\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\leon\Documents\Android\Flym\mobile\build\intermediates\pre-dexed\debug\library-2.4.0_1dc70949e590bb0ce5dbccbd4fd12f8a81cf159b.jar" />
+    </item>
+
+</items>
